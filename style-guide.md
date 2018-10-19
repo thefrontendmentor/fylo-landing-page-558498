@@ -1,21 +1,28 @@
 # Front-end Style Guide
 
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
 ## Colors
 
 ### Primary
 
-- hsl(243, 86%, 85%)
-- hsl(243, 87%, 12%)
+- Soft Blue: hsl(243, 86%, 85%)
+- Dark Blue: hsl(243, 87%, 12%)
 
 ### Accent
 
-- hsl(163, 95%, 43%)
+- Green: hsl(163, 95%, 43%)
 
 ### Neutral
 
-- hsl(106, 0%, 98%)
-- hsl(0, 0%, 50%)
-- hsl(0, 0%, 17%)
+- Light Gray: hsl(106, 0%, 98%)
+- Gray: hsl(0, 0%, 50%)
+- Dark Gray: hsl(0, 0%, 17%)
 
 ## Typography
 
